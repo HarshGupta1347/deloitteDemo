@@ -1,3 +1,3 @@
-# deloitteDemo
+# Deloitte Training
 
-This is being edited in VSCode
+This repo is for Deloitte AI Academy training.
